@@ -10,3 +10,4 @@ professor/
 capturas/
 # arquivos temporários do Office (deck aberto)
 ~$*
+venv/
